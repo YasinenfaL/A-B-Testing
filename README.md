@@ -1,5 +1,3 @@
-# A/B Testing
-
 # Comparing Conversion of Bidding Methods with A/B Testing
 ![Airline-AB-testing-in-action](https://user-images.githubusercontent.com/111612847/225813056-2a2d5239-f94c-4439-8979-ee2161ad58f5.jpg)
 
